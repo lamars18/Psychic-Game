@@ -71,3 +71,8 @@
     padding-bottom: 20px; 
 
   }
+  form {
+    float: center; 
+    font-style: bold; 
+    text-align: center; 
+  }
